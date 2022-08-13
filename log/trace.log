@@ -89,3 +89,77 @@
 2022-08-13 12:02:55.023 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring DispatcherServlet 'dispatcherServlet'
 2022-08-13 12:02:55.024 INFO  org.springframework.web.servlet.DispatcherServlet :525  [32m                  [0;39m Initializing Servlet 'dispatcherServlet'
 2022-08-13 12:02:55.025 INFO  org.springframework.web.servlet.DispatcherServlet :547  [32m                  [0;39m Completed initialization in 1 ms
+2022-08-13 12:11:03.501 INFO  c.e.m.config.MYencycloeadiaApplication            :55   [32m                  [0;39m Starting MYencycloeadiaApplication using Java 1.8.0_202 on LAPTOP-EG20H0ET with PID 5500 (D:\Portfolio\mYencycloeadia\target\classes started by admin in D:\Portfolio\mYencycloeadia)
+2022-08-13 12:11:03.506 INFO  c.e.m.config.MYencycloeadiaApplication            :660  [32m                  [0;39m No active profile set, falling back to default profiles: default
+2022-08-13 12:11:04.527 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :108  [32m                  [0;39m Tomcat initialized with port(s): 8099 (http)
+2022-08-13 12:11:04.535 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8099"]
+2022-08-13 12:11:04.536 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2022-08-13 12:11:04.537 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/9.0.39]
+2022-08-13 12:11:04.638 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2022-08-13 12:11:04.639 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :289  [32m                  [0;39m Root WebApplicationContext: initialization completed in 1070 ms
+2022-08-13 12:11:04.816 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor  :181  [32m                  [0;39m Initializing ExecutorService 'applicationTaskExecutor'
+2022-08-13 12:11:04.974 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8099"]
+2022-08-13 12:11:04.995 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :220  [32m                  [0;39m Tomcat started on port(s): 8099 (http) with context path ''
+2022-08-13 12:11:05.007 INFO  c.e.m.config.MYencycloeadiaApplication            :61   [32m                  [0;39m Started MYencycloeadiaApplication in 2.174 seconds (JVM running for 4.363)
+2022-08-13 12:11:05.009 INFO  c.e.m.config.MYencycloeadiaApplication            :17   [32m                  [0;39m 启动成功!!!
+2022-08-13 12:11:05.009 INFO  c.e.m.config.MYencycloeadiaApplication            :18   [32m                  [0;39m 地址：	http://127.0.0.1:8099
+2022-08-13 12:11:08.041 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-08-13 12:11:08.042 INFO  org.springframework.web.servlet.DispatcherServlet :525  [32m                  [0;39m Initializing Servlet 'dispatcherServlet'
+2022-08-13 12:11:08.044 INFO  org.springframework.web.servlet.DispatcherServlet :547  [32m                  [0;39m Completed initialization in 2 ms
+2022-08-13 12:18:21.639 INFO  c.e.m.config.MYencycloeadiaApplication            :55   [32m                  [0;39m Starting MYencycloeadiaApplication using Java 1.8.0_202 on LAPTOP-EG20H0ET with PID 12508 (D:\Portfolio\mYencycloeadia\target\classes started by admin in D:\Portfolio\mYencycloeadia)
+2022-08-13 12:18:21.644 INFO  c.e.m.config.MYencycloeadiaApplication            :660  [32m                  [0;39m No active profile set, falling back to default profiles: default
+2022-08-13 12:18:21.717 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor :255  [32m                  [0;39m Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-08-13 12:18:21.718 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor :255  [32m                  [0;39m For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-08-13 12:18:22.726 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :108  [32m                  [0;39m Tomcat initialized with port(s): 8099 (http)
+2022-08-13 12:18:22.735 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8099"]
+2022-08-13 12:18:22.736 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2022-08-13 12:18:22.737 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/9.0.39]
+2022-08-13 12:18:22.817 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2022-08-13 12:18:22.818 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :289  [32m                  [0;39m Root WebApplicationContext: initialization completed in 1099 ms
+2022-08-13 12:18:22.986 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor  :181  [32m                  [0;39m Initializing ExecutorService 'applicationTaskExecutor'
+2022-08-13 12:18:23.189 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :58   [32m                  [0;39m LiveReload server is running on port 35729
+2022-08-13 12:18:23.206 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8099"]
+2022-08-13 12:18:23.233 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :220  [32m                  [0;39m Tomcat started on port(s): 8099 (http) with context path ''
+2022-08-13 12:18:23.253 INFO  c.e.m.config.MYencycloeadiaApplication            :61   [32m                  [0;39m Started MYencycloeadiaApplication in 2.269 seconds (JVM running for 4.742)
+2022-08-13 12:18:23.259 INFO  c.e.m.config.MYencycloeadiaApplication            :17   [32m                  [0;39m 启动成功!!!
+2022-08-13 12:18:23.260 INFO  c.e.m.config.MYencycloeadiaApplication            :18   [32m                  [0;39m 地址：	http://127.0.0.1:8099
+2022-08-13 12:18:33.039 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-08-13 12:18:33.040 INFO  org.springframework.web.servlet.DispatcherServlet :525  [32m                  [0;39m Initializing Servlet 'dispatcherServlet'
+2022-08-13 12:18:33.042 INFO  org.springframework.web.servlet.DispatcherServlet :547  [32m                  [0;39m Completed initialization in 2 ms
+2022-08-13 12:18:43.985 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor  :218  [32m                  [0;39m Shutting down ExecutorService 'applicationTaskExecutor'
+2022-08-13 12:18:44.130 INFO  c.e.m.config.MYencycloeadiaApplication            :55   [32m                  [0;39m Starting MYencycloeadiaApplication using Java 1.8.0_202 on LAPTOP-EG20H0ET with PID 12508 (D:\Portfolio\mYencycloeadia\target\classes started by admin in D:\Portfolio\mYencycloeadia)
+2022-08-13 12:18:44.131 INFO  c.e.m.config.MYencycloeadiaApplication            :660  [32m                  [0;39m No active profile set, falling back to default profiles: default
+2022-08-13 12:18:44.337 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :108  [32m                  [0;39m Tomcat initialized with port(s): 8099 (http)
+2022-08-13 12:18:44.339 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8099"]
+2022-08-13 12:18:44.340 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2022-08-13 12:18:44.340 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/9.0.39]
+2022-08-13 12:18:44.368 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2022-08-13 12:18:44.368 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :289  [32m                  [0;39m Root WebApplicationContext: initialization completed in 234 ms
+2022-08-13 12:18:44.422 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor  :181  [32m                  [0;39m Initializing ExecutorService 'applicationTaskExecutor'
+2022-08-13 12:18:44.481 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :58   [32m                  [0;39m LiveReload server is running on port 35729
+2022-08-13 12:18:44.495 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8099"]
+2022-08-13 12:18:44.500 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :220  [32m                  [0;39m Tomcat started on port(s): 8099 (http) with context path ''
+2022-08-13 12:18:44.505 INFO  c.e.m.config.MYencycloeadiaApplication            :61   [32m                  [0;39m Started MYencycloeadiaApplication in 0.42 seconds (JVM running for 25.994)
+2022-08-13 12:18:44.508 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener :63   [32m                  [0;39m Condition evaluation unchanged
+2022-08-13 12:18:44.508 INFO  c.e.m.config.MYencycloeadiaApplication            :17   [32m                  [0;39m 启动成功!!!
+2022-08-13 12:18:44.509 INFO  c.e.m.config.MYencycloeadiaApplication            :18   [32m                  [0;39m 地址：	http://127.0.0.1:8099
+2022-08-13 12:18:47.279 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor  :218  [32m                  [0;39m Shutting down ExecutorService 'applicationTaskExecutor'
+2022-08-13 12:18:47.477 INFO  c.e.m.config.MYencycloeadiaApplication            :55   [32m                  [0;39m Starting MYencycloeadiaApplication using Java 1.8.0_202 on LAPTOP-EG20H0ET with PID 12508 (D:\Portfolio\mYencycloeadia\target\classes started by admin in D:\Portfolio\mYencycloeadia)
+2022-08-13 12:18:47.478 INFO  c.e.m.config.MYencycloeadiaApplication            :660  [32m                  [0;39m No active profile set, falling back to default profiles: default
+2022-08-13 12:18:47.685 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :108  [32m                  [0;39m Tomcat initialized with port(s): 8099 (http)
+2022-08-13 12:18:47.686 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8099"]
+2022-08-13 12:18:47.687 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2022-08-13 12:18:47.688 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/9.0.39]
+2022-08-13 12:18:47.724 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2022-08-13 12:18:47.724 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :289  [32m                  [0;39m Root WebApplicationContext: initialization completed in 243 ms
+2022-08-13 12:18:47.773 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor  :181  [32m                  [0;39m Initializing ExecutorService 'applicationTaskExecutor'
+2022-08-13 12:18:47.815 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :58   [32m                  [0;39m LiveReload server is running on port 35729
+2022-08-13 12:18:47.825 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8099"]
+2022-08-13 12:18:47.830 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :220  [32m                  [0;39m Tomcat started on port(s): 8099 (http) with context path ''
+2022-08-13 12:18:47.835 INFO  c.e.m.config.MYencycloeadiaApplication            :61   [32m                  [0;39m Started MYencycloeadiaApplication in 0.393 seconds (JVM running for 29.324)
+2022-08-13 12:18:47.837 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener :63   [32m                  [0;39m Condition evaluation unchanged
+2022-08-13 12:18:47.838 INFO  c.e.m.config.MYencycloeadiaApplication            :17   [32m                  [0;39m 启动成功!!!
+2022-08-13 12:18:47.839 INFO  c.e.m.config.MYencycloeadiaApplication            :18   [32m                  [0;39m 地址：	http://127.0.0.1:8099
+2022-08-13 12:18:51.477 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-08-13 12:18:51.479 INFO  org.springframework.web.servlet.DispatcherServlet :525  [32m                  [0;39m Initializing Servlet 'dispatcherServlet'
+2022-08-13 12:18:51.480 INFO  org.springframework.web.servlet.DispatcherServlet :547  [32m                  [0;39m Completed initialization in 1 ms

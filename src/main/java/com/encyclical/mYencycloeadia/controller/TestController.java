@@ -9,7 +9,7 @@ public class TestController {
 
     @RequestMapping("/hello")
     public String hello(){
-        return "hello";
+        return "hello111";
     }
     @PostMapping("/hello/post")
     public String hepost(String name){
